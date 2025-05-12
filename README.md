@@ -61,7 +61,3 @@ The resulting XML structure will look like this:
 **Error Handling**
 If a file is malformed and cannot be parsed, it logs the error and continues processing the rest.
 If no XML files are found in the input directory, it prints a message and exits.
-
-
-
-You can customize the XML element renaming by modifying the rename_mapping dictionary:

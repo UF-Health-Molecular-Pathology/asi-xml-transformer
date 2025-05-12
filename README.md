@@ -22,7 +22,7 @@ This Python script automates the transformation of HL7 files from Epic into an X
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/asi-xml-converter.git
+git clone https://github.com/UF-Health-Molecular-Pathology/asi-xml-transformer.git
 cd asi-xml-converter
 ```
 
